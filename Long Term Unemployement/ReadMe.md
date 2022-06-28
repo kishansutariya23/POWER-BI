@@ -4,7 +4,7 @@ dataset link -->(https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads
 
 ScreenShort as well as my powerbi-report will be available in same folder. 
 
-<img src=https://github.com/kishansutariya23/POWER-BI/blob/main/Long%20Term%20Unemployement/Long%20Term%20Unemployement.png>
+< img src=https://github.com/kishansutariya23/POWER-BI/blob/main/Long%20Term%20Unemployement/Long%20Term%20Unemployement.png>
 
 Check out my other REPORT and download the report and make your own changes.
 Thank you.
